@@ -1,5 +1,7 @@
 **A Geo-Causal and Risk-Aware Framework for Evaluating Localized Interventions in Spatially Distributed Systems**
 
+**Contributors : Banani Mohapatra, Bhavnish Walia, Manisha Arora **
+
 A modular pipeline for geospatial clustering, risk-aware matching, spillover detection, and causal inference — designed for retail stores, and extensible to any geographically distributed system such as ride-sharing, delivery networks, urban mobility, and public policy pilots.
 
 This repository provides an end-to-end, plug-and-play causal inference workflow to evaluate the impact of localized interventions where both geography and operational heterogeneity matter. It is particularly well-suited for retail store interventions, where spatial proximity, neighborhood-level effects, and store-level covariates strongly influence outcomes.
